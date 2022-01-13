@@ -9,8 +9,7 @@ The discord bot is a, bot that can roll two dices for you. To activate the bot t
 # Setup
 
 Before you connect the bot, please change this
-in. 
-.env
+in the file: .env
 ```
 TOKEN=YOUR-TOKEN-HERE
 ```
