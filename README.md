@@ -27,5 +27,5 @@ Now the bot are ready and, you can invite it to the server of your choice.
 To start / connect the bot, type the following in the terminal:
 
 ```
-node-ts index.ts
+ts-node index.ts
 ```
