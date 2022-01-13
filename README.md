@@ -23,7 +23,7 @@ npm install
 ```
 
 Now the bot are ready and, you can invite it to the server of your choice.
-To start / connect the bot, type the following in the terminal:
+To start / connect the bot, type the following command in the terminal:
 
 ```
 ts-node index.ts
